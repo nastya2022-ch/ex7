@@ -8,5 +8,5 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin  https://github.com/nastya2022-ch/ex6.git
+git remote add origin  https://github.com/nastya2022-ch/ex77.git
 git push -u origin main
